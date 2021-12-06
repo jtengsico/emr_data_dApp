@@ -2,3 +2,4 @@
 * image processing
 * machine learning to identify data that is not anonymized
 * self-identification to access data
+* note: this is for testing purposes only 
